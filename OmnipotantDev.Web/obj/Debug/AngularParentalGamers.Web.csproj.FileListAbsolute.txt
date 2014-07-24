@@ -1,0 +1,10 @@
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularParentalGamers.Web.dll.config
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularParentalGamers.Web.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularParentalGamers.Web.pdb
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\EntityFramework.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\EntityFramework.SqlServer.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\EntityFramework.xml
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\EntityFramework.SqlServer.xml
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularParentalGamers.Web.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularParentalGamers.Web.pdb
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularParentalGamers.Web.csprojResolveAssemblyReference.cache

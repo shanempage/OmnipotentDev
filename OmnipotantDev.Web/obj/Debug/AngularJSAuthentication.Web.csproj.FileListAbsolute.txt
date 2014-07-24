@@ -1,0 +1,6 @@
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
+C:\ProfDev\AngularParentalGuidance\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.csprojResolveAssemblyReference.cache

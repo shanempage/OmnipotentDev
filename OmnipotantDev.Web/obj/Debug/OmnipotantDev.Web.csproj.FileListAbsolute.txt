@@ -1,0 +1,10 @@
+C:\OmnipotentDev\OmnipotantDev.Web\bin\AngularParentalGamers.Web.dll.config
+C:\OmnipotentDev\OmnipotantDev.Web\bin\AngularParentalGamers.Web.dll
+C:\OmnipotentDev\OmnipotantDev.Web\bin\AngularParentalGamers.Web.pdb
+C:\OmnipotentDev\OmnipotantDev.Web\bin\EntityFramework.dll
+C:\OmnipotentDev\OmnipotantDev.Web\bin\EntityFramework.SqlServer.dll
+C:\OmnipotentDev\OmnipotantDev.Web\bin\EntityFramework.xml
+C:\OmnipotentDev\OmnipotantDev.Web\bin\EntityFramework.SqlServer.xml
+C:\OmnipotentDev\OmnipotantDev.Web\obj\Debug\OmnipotantDev.Web.csprojResolveAssemblyReference.cache
+C:\OmnipotentDev\OmnipotantDev.Web\obj\Debug\AngularParentalGamers.Web.dll
+C:\OmnipotentDev\OmnipotantDev.Web\obj\Debug\AngularParentalGamers.Web.pdb
